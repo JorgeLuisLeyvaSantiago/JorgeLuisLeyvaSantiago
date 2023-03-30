@@ -4,6 +4,7 @@
   <h2>Hi there 👋, I'm a UNI Engineer </h2>
 </div>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" />
 
 
 <!--
