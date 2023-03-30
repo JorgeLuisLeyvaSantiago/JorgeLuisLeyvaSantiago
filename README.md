@@ -1,14 +1,15 @@
 <!--  ### Hi there 👋 -->
+
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM0M2ZjOTQxNWI0OWI0ZDYzNzZhOWNiOGM2MTZmZTM1M2IwOTc5OCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="180" />
   <h2>Hi there 👋, I'm a Mechatronic Engineer </h2>
   <a href="https://www.facebook.com/youaingel.menteasesino" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/facebook.png" width="22px" /></a>
-  <a href="https://www.facebook.com/youaingel.menteasesino" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/instagram.png" width="22px" /></a>
-  <a href="https://www.facebook.com/youaingel.menteasesino" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/twitter.png" width="22px" /></a>
-  <a href="https://www.facebook.com/youaingel.menteasesino" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/github.png" width="22px" /></a>
-  <a href="https://www.facebook.com/youaingel.menteasesino" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/telegram.png" width="22px" /></a>
-  <a href="https://www.facebook.com/youaingel.menteasesino" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/tiktok.png" width="22px" /></a>
+  <a href="https://www.instagram.com/jorgeluisleyvasantiago/" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/instagram.png" width="22px" /></a>
+  <a href="https://twitter.com/Jorge_LSanti" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/twitter.png" width="22px" /></a>
+  <a href="https://github.com/JorgeLuisLeyvaSantiago" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/github.png" width="22px" /></a>
+  <a href="https://web.telegram.org/k/#@JorgeLuisLeyvaSantiago" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/telegram.png" width="22px" /></a>
+  <a href="https://www.tiktok.com/@jorgeleyvasantiag?lang=en" target="_blank"><img src="https://github.com/mctechnology17/mctechnology17/blob/main/src/tiktok.png" width="22px" /></a>
   
 </div>
 
