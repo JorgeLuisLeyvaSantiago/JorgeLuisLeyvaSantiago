@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm a Mechatronic Engineer 🤖💻📚</h1>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM0M2ZjOTQxNWI0OWI0ZDYzNzZhOWNiOGM2MTZmZTM1M2IwOTc5OCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif" width="180" />
   <h3 align="center">📌A passionate fullstack developer </h3>
 </div>
 
