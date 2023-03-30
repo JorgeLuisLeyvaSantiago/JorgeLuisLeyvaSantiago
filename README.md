@@ -4,7 +4,14 @@
   <h2>Hi there 👋, I'm a UNI Engineer </h2>
 </div>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="40" />
+
+
 
 
 <!--
