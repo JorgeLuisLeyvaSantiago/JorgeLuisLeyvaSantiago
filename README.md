@@ -1,8 +1,10 @@
+<!--  ### Hi there 👋 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="180" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM0M2ZjOTQxNWI0OWI0ZDYzNzZhOWNiOGM2MTZmZTM1M2IwOTc5OCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="180" />
+  <h2>Hi there 👋, I'm JORGE LUIS LEYVA SANTIAGO </h2>
 </div>
 
- ### Hi there 👋
+
 
 <!--
 **JorgeLuisLeyvaSantiago/JorgeLuisLeyvaSantiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
