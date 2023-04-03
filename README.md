@@ -44,8 +44,8 @@
 
 <div>
   <a href="https://github.com/JorgeLuisLeyvaSantiago/">
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeluisleyvasantiago&show_icons=true&locale=en&layout=compact">  
   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=jorgeluisleyvasantiago&show_icons=true&locale=en">
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeluisleyvasantiago&show_icons=true&locale=en&layout=compact">
 </div>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeluisleyvasantiago&show_icons=true&locale=en&layout=compact" alt="jorgeluisleyvasantiago" /></p> -->
