@@ -65,8 +65,12 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
   <!--   BASH -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/350/PNG/512/bash_36261.png" alt="bash" width="35" height="35"/> </a> 
+  <!--   VISUAL STUDIO CODE -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="visual studio code" width="38" height="38"/> </a>
   <!-- GIT   -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png" alt="git" width="55" height="55"/> </a>
+  <!-- GITkraken   -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gitkraken_logo_icon_169111.png" alt="gitkraken" width="36" height="36"/> </a>
   <!-- GIThub   -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="git" width="50" height="50"/> </a>
   <!--   BOOTSTRAP -->
