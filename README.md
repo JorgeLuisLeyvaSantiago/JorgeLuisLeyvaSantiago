@@ -2,10 +2,11 @@
   <h1 align="center">Hi 👋, I'm a Mechatronic Engineer 🤖💻📚</h1>
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left"> -->
-  <a href="https://twitter.com/jorge_lsanti" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorge_lsanti" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jorge-luis-leyva-santiago-a6a4a2149/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-luis-leyva-santiago-a6a4a2149/" height="30" width="40" /></a>
-  <a href="https://fb.com/youaingel.menteasesino" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youaingel.menteasesino" height="30" width="40" /></a>
-  <a href="https://instagram.com/jorgeluisleyvasantiago/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgeluisleyvasantiago/" height="30" width="40" /></a>
+  <a href="https://twitter.com/jorge_lsanti" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jorge_lsanti" height="26" width="36" /></a>
+  <a href="https://linkedin.com/in/jorge-luis-leyva-santiago-a6a4a2149/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-luis-leyva-santiago-a6a4a2149/" height="26" width="36" /></a>
+  <a href="https://fb.com/youaingel.menteasesino" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youaingel.menteasesino" height="26" width="36" /></a>
+  <a href="https://instagram.com/jorgeluisleyvasantiago/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jorgeluisleyvasantiago/" height="28" width="38" /></a>
+  <a href="https://www.tiktok.com/@jorgeleyvasantiag?lang=en" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3007/PNG/512/tiktok_logo_icon_188431.png" alt="jorgeluisleyvasantiago/" height="30" width="30" /></a>
   </p>
   <img src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif" width="180" />
   <h3 align="center">📌A passionate fullstack developer </h3>
@@ -60,20 +61,24 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <!-- WORDPRESS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/wordpress_original_logo_icon_146291.png" alt="wordpress" width="40" height="40"/> </a>
   <!-- FLASK   -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
   <!-- GIT   -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" alt="git" width="55" height="55"/> </a> 
+   <!-- GITHUB   -->
+<!--   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_wordmark_logo_icon_146506.png" alt="git" width="50" height="50"/> </a>  -->
   <!-- GOLANG -->
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   <!-- HEROKU -->
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_original_wordmark_logo_icon_146482.png" alt="heroku" width="40" height="40"/> </a> 
   <!-- JAVA -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" alt="java" width="45" height="45"/> </a> 
   <!-- SQL SERVER -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/> </a> 
   <!--   MYSQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
   <!--   POSTGRE -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <!--   SQLITE -->
