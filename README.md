@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **jleyvas@uni.pe**
 
-- 📄 Know about my experiences [https://jorgeluisleyvasantiago.github.io/web_site_1/#contact](https://jorgeluisleyvasantiago.github.io/web_site_1/#contact)
+- 📄 Know about my experiences [https://jorgeluisleyvasantiago.github.io/web_site_1/](https://jorgeluisleyvasantiago.github.io/web_site_1/)
 
 - ⚡ Fun fact **I love dancing**
 
