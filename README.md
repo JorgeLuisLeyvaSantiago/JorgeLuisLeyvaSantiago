@@ -108,11 +108,12 @@
 </p>
 
 <div>
-  <a href="https://github.com/JorgeLuisLeyvaSantiago/">
+<!--   <a href="https://github.com/JorgeLuisLeyvaSantiago/"> -->
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeluisleyvasantiago&show_icons=true&locale=en&layout=compact" alt="jorgeluisleyvasantiago">  
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=jorgeluisleyvasantiago&show_icons=true&locale=en" alt="jorgeluisleyvasantiago">
+  <img height = "180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JorgeLuisLeyvaSantiago&theme=2077" alt="jorgeluisleyvasantiago">
+<!--   <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=jorgeluisleyvasantiago&show_icons=true&locale=en" alt="jorgeluisleyvasantiago"> -->
+<!--   <img height = "180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeluisleyvasantiago&" alt="jorgeluisleyvasantiago"> -->
   <img height = "180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JorgeLuisLeyvaSantiago&theme=2077" alt="jorgeluisleyvasantiago">
-  <img height = "180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgeluisleyvasantiago&" alt="jorgeluisleyvasantiago">
 </div>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeluisleyvasantiago&show_icons=true&locale=en&layout=compact" alt="jorgeluisleyvasantiago" /></p> -->
