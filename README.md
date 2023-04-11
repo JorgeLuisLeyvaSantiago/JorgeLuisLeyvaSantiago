@@ -16,7 +16,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jorgeluisleyvasantiago" alt="jorgeluisleyvasantiago" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/jorge_lsanti" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_lsanti?logo=twitter&style=for-the-badge" alt="jorge_lsanti" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/jorge_lsanti" target="blank"><img src="https://img.shields.io/twitter/follow/jorge_lsanti?logo=twitter&style=for-the-badge" alt="jorge_lsanti" /></a> </p> -->
 
 - 📄 Know about my experiences [https://jorgeluisleyvasantiago.github.io/web_site_1/](https://jorgeluisleyvasantiago.github.io/web_site_1/)
 
