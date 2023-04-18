@@ -109,7 +109,7 @@
 
 <div>
 <!--   <a href="https://github.com/JorgeLuisLeyvaSantiago/"> -->
-  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeluisleyvasantiago&show_icons=true&locale=en&layout=compact" alt="jorgeluisleyvasantiago">  
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgeluisleyvasantiago&show_icons=true&locale=en&layout=compact&theme=gruvbox_light" width="100%" alt="jorgeluisleyvasantiago">
   <img height = "180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JorgeLuisLeyvaSantiago&theme=2077" alt="jorgeluisleyvasantiago">
   <img height = "180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JorgeLuisLeyvaSantiago&theme=2077" alt="jorgeluisleyvasantiago">
   <img height = "180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JorgeLuisLeyvaSantiago&theme=2077" alt="jorgeluisleyvasantiago">
